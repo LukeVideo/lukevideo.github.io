@@ -18,7 +18,7 @@ exports.init = function() {
     m_app.init({
         canvas_container_id: "main_canvas_container",
         callback: init_cb,
-        show_fps: true,
+        show_fps: false,
         console_verbose: true,
         autoresize: true
     });

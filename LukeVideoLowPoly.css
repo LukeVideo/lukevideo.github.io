@@ -49,7 +49,10 @@ div#main_canvas_container {
     width: 30%;
     right: 20%;
 }
-
+#badge{
+    width: 30%;
+    left: 35%;
+}
 .vignette div p{
     color: green;
     font-size: 1.5em;
