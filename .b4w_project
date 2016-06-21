@@ -1,0 +1,28 @@
+[info]
+author = Luke Video
+name = LukeVideoLowPoly
+title = LukeVideo LowPloy
+icon = 
+
+[paths]
+assets_dirs = apps_dev/LukeVideoLowPoly;
+blend_dirs = apps_dev/LukeVideoLowPoly;
+blender_exec = blender
+build_dir = apps_dev/LukeVideoLowPoly
+deploy_dir = 
+
+[compile]
+apps = 
+css_ignore = 
+engine_type = update
+js_ignore = 
+optimization = simple
+use_physics = 
+use_smaa_textures = 
+version = 
+
+[deploy]
+assets_path_dest = assets
+assets_path_prefix = assets
+override = 
+
