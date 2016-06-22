@@ -40,7 +40,7 @@ button{
     background-color: rgb(169, 216, 200);
     font-size: 1em;
     padding: 0.5em;
-    
+
 }
 #me{
     width: 30%;
@@ -77,4 +77,12 @@ button{
 }
 .hiddable{
     visibility: hidden;
+}
+@media screen and (max-width: 1000px) {
+
+    #me, #shoulder, #sunglasses, #headphones{
+        width: 75%;
+        left: 12.5%;
+    }
+
 }
