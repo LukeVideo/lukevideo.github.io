@@ -18,20 +18,30 @@ div#main_canvas_container {
     top: 0px;
     width: 100%;
     height: 100%;
-}the head
+}
+
+the head
 .absolute{
     position: absolute;
 }
+
 .vignette{
     font-family: 'Open Sans', sans-serif;
-    color: green;
+    color: #433447;
     position: absolute;
-    background-color: rgba(255, 204, 0, 0.6);
+    background-color: rgba(169, 216, 200, 0.7);
     top: 10%;
     padding: 0.5em;
-    /*height: 60%;*/
-}
 
+}
+button{
+    font-family: 'Open Sans', sans-serif;
+    color: #433447;
+    background-color: rgb(169, 216, 200);
+    font-size: 1em;
+    padding: 0.5em;
+    
+}
 #me{
     width: 30%;
     left: 55%;
@@ -53,8 +63,16 @@ div#main_canvas_container {
     width: 30%;
     left: 35%;
 }
+#phone{
+    width: 30%;
+    left: 35%;
+}
+#suitcase{
+    width: 30%;
+    left: 35%;
+}
 .vignette div p{
-    color: green;
+    color: #433447;
     font-size: 1.5em;
 }
 .hiddable{
