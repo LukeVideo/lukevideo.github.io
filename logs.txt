@@ -1,0 +1,41 @@
+commit 4b58de285fab1e7bc25a27436445c80114fb5973
+Author: Luke Video <lukevideo@localhost.localdomain>
+Date:   Thu Jun 23 11:36:11 2016 +0200
+
+    adding socialLinks and resume. Also move the headphones
+
+commit 397f29ef3484ee22cca5d43ac38bfeb87460406d
+Author: Luke Video <lukevideo@localhost.localdomain>
+Date:   Wed Jun 22 16:56:02 2016 +0200
+
+    started responsive CSS
+
+commit e2c42afe1d155c4a9688ea3b61258b31481ab6b4
+Author: Luke Video <lukevideo@localhost.localdomain>
+Date:   Wed Jun 22 14:52:14 2016 +0200
+
+    canceled the gitignore. I could need the file on other workstations.
+
+commit e74b5349352374e4c72d1682c2427f741a16ec26
+Author: Luke Video <lukevideo@localhost.localdomain>
+Date:   Wed Jun 22 14:25:20 2016 +0200
+
+    trying gitignore .blend files and some CSS fixes. Also sunglasses now both work!
+
+commit a920e28700a354b7643da493f22df7cbcad83aa6
+Author: Luke Video <lukevideo@localhost.localdomain>
+Date:   Tue Jun 21 14:44:35 2016 +0200
+
+    suppression FPS et un peu de CSS
+
+commit d757b2ed4e31c01d1b540c1664a02e0efc3d4f42
+Author: Luke Video <lukevideo@localhost.localdomain>
+Date:   Tue Jun 21 12:23:32 2016 +0200
+
+    add b4w_project
+
+commit a20a7a13f3ccd24a38b5d84827aad37de74c66fd
+Author: Luke Video <lukevideo@localhost.localdomain>
+Date:   Tue Jun 21 12:08:00 2016 +0200
+
+    first commit
